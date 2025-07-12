@@ -6,7 +6,7 @@
 
 This repository contains curated resources, notebooks, and exercise solutions from the IBM Data Science Professional Certificate (2025).  The certification covers topics like Python, SQL, data visualization, machine learning, and applied data science.
 
-Specialization Course Link: [https://www.coursera.org/professional-certificates/ibm-data-science]
+Specialization Course Link: [here](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 #### There are 12 Courses in this Professional Certificate
 
