@@ -1,12 +1,8 @@
 # IBM Data Science Professional Certificate 2025
 
-
-
-
 ![logo](https://i.imgur.com/YCFnjvg.png)
 
-
-#### Instructors: Rav Ahuja, Alex Aklson, Aije Egwaikhide, Svetlana Levitan, Romeo Kienzler, Polong Lin, Joseph Santarcangelo, Azim Hirjani, Hima Vasudevan, Saishruthi Swaminathan, Saeed Aghabozorgi, Yan Luo 
+#### Instructors: IBM Skills Network Team, Dr. Pooja, Abhisek Gegneja, Rav Ahuja, Alex Aklson, Aije Egwaikhide, Svetlana Levitan, Romeo Kienzler, Polong Lin, Joseph Santarcangelo, Azim Hirjani, Hima Vasudevan, Saishruthi Swaminathan, Saeed Aghabozorgi, Yan Luo, Jeff Grossman 
 
 This repository contains curated resources, notebooks, and exercise solutions from the IBM Data Science Professional Certificate (2025).  The certification covers topics like Python, SQL, data visualization, machine learning, and applied data science.
 
