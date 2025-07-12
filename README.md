@@ -14,7 +14,7 @@ Specialization Course Link: [https://www.coursera.org/professional-certificates/
 
 #### There are 12 Courses in this Professional Certificate
 
-The courses enlisted in this specialization are as follows:
+The courses enlisted in this specialization can be seen as below:
 
 * What is Data Science? [Link](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
 
