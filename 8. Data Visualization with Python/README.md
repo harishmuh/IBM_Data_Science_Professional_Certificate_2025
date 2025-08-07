@@ -2,6 +2,7 @@
 
 This course contains several modules that consist of
 
+
 **Module 1: Introduction to Data Visualization Tools**
 * Introduction to Data Visualization
 
