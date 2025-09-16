@@ -10,7 +10,7 @@ Specialization Course Link: [Click here](https://www.coursera.org/professional-c
 
 #### There are 12 Courses in this Professional Certificate
 
-The courses enlisted in this specialization can be seen as below:
+The courses listed in this specialization can be seen as below:
 
 1. What is Data Science? → [View course](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
 
@@ -37,6 +37,7 @@ The courses enlisted in this specialization can be seen as below:
 12. Data Scientist Career Guide and Interview Preparation → [View course](https://www.coursera.org/programs/industry-professional-credentials-track-blqcg/learn/career-guide-and-interview-prep-for-data-science-pc?specialization=ibm-data-science)
 
 ---
+**IBM Data Science Professional Certificate**
 
 |<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/2f98ec1d-3d27-494e-a698-0d31aaa77618" />|
 |---|
