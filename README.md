@@ -35,3 +35,8 @@ The courses enlisted in this specialization can be seen as below:
 11. Generative AI: Elevate Your Data Science Career→ [View course](https://www.coursera.org/programs/industry-professional-credentials-track-blqcg/learn/generative-ai-elevate-your-data-science-career?specialization=ibm-data-science)
 
 12. Data Scientist Career Guide and Interview Preparation → [View course](https://www.coursera.org/programs/industry-professional-credentials-track-blqcg/learn/career-guide-and-interview-prep-for-data-science-pc?specialization=ibm-data-science)
+
+
+|<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/2f98ec1d-3d27-494e-a698-0d31aaa77618" />|
+|---|
+
