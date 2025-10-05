@@ -42,3 +42,6 @@ The courses listed in this specialization can be seen as below:
 |<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/2f98ec1d-3d27-494e-a698-0d31aaa77618" />|
 |---|
 
+**Learning participation through Industry Professional Credential Track funded by US-ASEAN Center and Arizona State University**
+|<img width="811" height="576" alt="image" src="https://github.com/user-attachments/assets/92e38112-0405-4a40-bd97-784566162afe" />|
+|---|
